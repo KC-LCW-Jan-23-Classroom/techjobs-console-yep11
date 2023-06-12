@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11329744&assignment_repo_type=AssignmentRepo)
 # TechJobs, Console Edition Autograded Rubric
 
 For [this assignment](https://education.launchcode.org/java-web-development/assignments/tech-jobs-console.html), students are asked to complete a console app that allows users to browse, search, and print listings of open jobs.
