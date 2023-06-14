@@ -104,6 +104,7 @@ public class TechJobs {
                 boolean shouldQuit = line.equals("x");
                 if (shouldQuit) {
                     return null;
+
                 }
             }
 
